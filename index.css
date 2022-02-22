@@ -33,7 +33,7 @@
 	position: fixed;
 	border-radius: 3%;
 }
-#bgVideo{
+#bgVideo video{
 	height:100%;
 }	
 .frame{
@@ -118,6 +118,3 @@ body{
 	background-size: 100% 100%;
 }
 
-video{
-	width:1000px;	
-}
