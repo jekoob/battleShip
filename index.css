@@ -33,7 +33,9 @@
 	position: fixed;
 	border-radius: 3%;
 }
-
+#bgVideo{
+	height:100%;
+}	
 .frame{
 	position: fixed;
 	margin:auto;
